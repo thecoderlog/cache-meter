@@ -1,0 +1,98 @@
+sku,name,price,vat,category
+1001,Sourdough loaf,3.20,Z,bakery
+1002,Wholemeal loaf 800g,1.45,Z,bakery
+1003,White baguette,0.95,Z,bakery
+1004,Butter croissant,0.85,Z,bakery
+1005,Pain au chocolat,0.95,Z,bakery
+1006,Cinnamon bun,1.40,Z,bakery
+1007,Crumpets x6,0.99,Z,bakery
+1008,Bagels x5,1.60,Z,bakery
+2001,Semi-skimmed milk 2pt,1.55,Z,dairy
+2002,Whole milk 4pt,2.05,Z,dairy
+2003,Oat drink 1l,1.65,Z,dairy
+2004,Salted butter 250g,2.39,Z,dairy
+2005,Mature cheddar 400g,3.75,Z,dairy
+2006,Greek yogurt 500g,1.95,Z,dairy
+2007,Free range eggs x6,2.10,Z,dairy
+2008,Double cream 300ml,1.70,Z,dairy
+3001,Bananas x5,0.85,Z,produce
+3002,Braeburn apples x6,1.99,Z,produce
+3003,Clementines 600g,1.75,Z,produce
+3004,Avocado,0.89,Z,produce
+3005,Cherry tomatoes 250g,1.10,Z,produce
+3006,Baby spinach 200g,1.40,Z,produce
+3007,Red onions x3,0.79,Z,produce
+3008,Garlic bulb,0.35,Z,produce
+3009,Potatoes 2kg,1.49,Z,produce
+3010,Lemons x4,1.20,Z,produce
+4001,Chicken thighs 1kg,4.50,Z,meat
+4002,Beef mince 500g,4.25,Z,meat
+4003,Smoked bacon x8,2.85,Z,meat
+4004,Pork sausages x8,2.60,Z,meat
+4005,Salmon fillets x2,4.75,Z,meat
+5001,Spaghetti 500g,0.95,Z,pantry
+5002,Basmati rice 1kg,2.40,Z,pantry
+5003,Chopped tomatoes 400g,0.55,Z,pantry
+5004,Plain flour 1.5kg,1.10,Z,pantry
+5005,Porridge oats 1kg,1.30,Z,pantry
+5006,Peanut butter 340g,2.20,Z,pantry
+5007,Strawberry jam 340g,1.65,Z,pantry
+5008,Ground coffee 227g,3.95,Z,pantry
+5009,Tea bags x80,2.70,Z,pantry
+5010,Olive oil 500ml,4.60,Z,pantry
+5011,Runny honey 340g,3.10,Z,pantry
+5012,Cornflakes 500g,1.85,Z,pantry
+6001,Sparkling water 1.5l,0.75,S,drinks
+6002,Orange juice 1l,1.80,S,drinks
+6003,Cola 2l,2.15,S,drinks
+6004,Cola can 330ml,0.95,S,drinks
+6005,Lemonade 2l,1.25,S,drinks
+6006,Ginger beer 4x330ml,3.40,S,drinks
+6007,Chocolate milkshake 330ml,1.35,Z,drinks
+6008,Red wine 75cl,7.50,S,drinks
+6009,Pale ale 4x440ml,6.00,S,drinks
+6010,Still water 500ml,0.65,S,drinks
+7001,Ready salted crisps 6pk,1.65,S,snacks
+7002,Sea salt crisps 150g,1.95,S,snacks
+7003,Milk chocolate bar 100g,1.35,S,snacks
+7004,Dark chocolate 85% 100g,1.95,S,snacks
+7005,Jaffa cakes x10,1.15,Z,snacks
+7006,Digestive biscuits 400g,1.05,Z,snacks
+7007,Chocolate digestives 300g,1.40,S,snacks
+7008,Salted peanuts 200g,1.20,S,snacks
+7009,Fruit pot,1.10,Z,snacks
+7010,Popcorn 100g,1.25,S,snacks
+8001,Chicken & bacon sandwich,3.10,Z,deli
+8002,Egg & cress sandwich,2.40,Z,deli
+8003,Falafel wrap,3.25,Z,deli
+8004,Tuna crunch sandwich,2.80,Z,deli
+8005,Pasta salad bowl,3.50,Z,deli
+8006,"Ham, cheese & pickle sandwich",3.30,Z,deli
+9001,Vanilla ice cream 1l,2.60,S,frozen
+9002,Frozen peas 900g,1.50,Z,frozen
+9003,Margherita pizza,2.95,Z,frozen
+9004,Fish fingers x10,2.40,Z,frozen
+9005,Oven chips 1.5kg,2.25,Z,frozen
+10001,Washing-up liquid 450ml,1.20,S,household
+10002,Laundry pods x20,5.50,S,household
+10003,Kitchen roll x2,2.10,S,household
+10004,Toilet roll x9,4.80,S,household
+10005,AA batteries x4,3.40,S,household
+10006,Bin bags x20,1.95,S,household
+10007,Firelighters x24,1.75,S,household
+11001,Toothpaste 75ml,1.60,S,toiletries
+11002,Shampoo 400ml,3.20,S,toiletries
+11003,Hand soap 250ml,1.25,S,toiletries
+11004,Deodorant 150ml,2.75,S,toiletries
+11005,Sanitary pads x14,1.85,Z,toiletries
+12001,Baby wipes x64,1.40,S,baby
+12002,Nappies size 4 x40,7.50,S,baby
+12003,Baby porridge 200g,1.65,Z,baby
+13001,Nicotine gum 4mg x105,12.00,R,health
+13002,Nicotine patches x7,10.50,R,health
+13003,Paracetamol x16,0.65,S,health
+14001,Kiln-dried logs 15l,5.50,R,fuel
+15001,Gift card £10,10.00,Z,giftcard
+15002,Gift card £25,25.00,Z,giftcard
+16001,Carrier bag,0.10,S,bag
+16002,Bag for life,0.50,S,bag

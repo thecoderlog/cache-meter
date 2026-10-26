@@ -1,0 +1,41 @@
+{
+  "name": "cache-meter",
+  "version": "0.1.0",
+  "description": "What each Claude API call cost, what prompt caching saved, and what it would save if it's off",
+  "type": "module",
+  "main": "cache-meter.mjs",
+  "exports": {
+    ".": "./cache-meter.mjs",
+    "./prices": "./prices.mjs"
+  },
+  "files": [
+    "cache-meter.mjs",
+    "prices.mjs"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "race": "node examples/race/race.mjs"
+  },
+  "peerDependencies": {
+    "@anthropic-ai/sdk": ">=1.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@anthropic-ai/sdk": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "1.3.0"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "keywords": [
+    "anthropic",
+    "claude",
+    "prompt-caching",
+    "cost",
+    "tokens"
+  ],
+  "license": "MIT"
+}

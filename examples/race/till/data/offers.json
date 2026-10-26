@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pastries-3for2",
+    "type": "multibuy",
+    "label": "Pastries 3 for 2",
+    "skus": ["1004", "1005", "1006"],
+    "buy": 3,
+    "pay": 2
+  },
+  {
+    "id": "crisps-2for3",
+    "type": "fixed",
+    "label": "Crisps 2 for £3",
+    "skus": ["7001", "7002"],
+    "count": 2,
+    "price": "3.00"
+  },
+  {
+    "id": "meal-deal",
+    "type": "mealdeal",
+    "label": "Meal deal",
+    "price": "3.85",
+    "groups": [
+      ["8001", "8002", "8003", "8004", "8006"],
+      ["6004", "6007", "6010"],
+      ["7003", "7005", "7009"]
+    ]
+  },
+  {
+    "id": "cola-2for3",
+    "type": "fixed",
+    "label": "Cola 2l 2 for £3",
+    "skus": ["6003"],
+    "count": 2,
+    "price": "3.00"
+  }
+]

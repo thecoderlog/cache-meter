@@ -1,0 +1,16 @@
+{
+  "name": "till",
+  "version": "0.9.0",
+  "description": "Prints a shop receipt from a cart file",
+  "type": "module",
+  "bin": {
+    "till": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  },
+  "license": "MIT"
+}
